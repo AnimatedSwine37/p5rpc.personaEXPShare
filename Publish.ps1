@@ -162,7 +162,7 @@ param (
     $UseScriptDirectory=$True,
 
     ## => User Config <= ## 
-    $ProjectPath = "p5rpc.personaEXPShare.csproj",
+    $ProjectPath = "p5rpc.personaEXPShare/p5rpc.personaEXPShare.csproj",
     $PackageName = "p5rpc.personaEXPShare",
     $PublishOutputDir = "Publish/ToUpload",
 
